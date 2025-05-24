@@ -20,12 +20,6 @@ Avalanche L1 Name	: privadoChain Testnet
 RPC URL	
 https://subnets.avax.network/privachain/testnet/rpc
 
-Subnet ID	
-2Tzge4oimtZikhhDAwYGcVL7idH78rNKbLGiqH1nBRBCzL9uVZ
-
-Blockchain ID (Base58)	
-QNer9eHSFbFv4p2VtXDUAvfzuNBA6EnQUd4dE8wkCtnsDaDDm
-
 Blockchain ID (Hex)	
 0x35126d63d398a10a2ede0893b52eb00863f47d022e7aded472c92b23d5e7ab84
 
