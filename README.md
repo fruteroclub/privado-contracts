@@ -13,6 +13,8 @@ SimpleReceiver Avalanche C-Chain :
 Verified : https://routescan.io/address/0x1134584b96749fD4b597390a388210Ea88f2Fcdb/contract/43114/code
 
 
+
+
 Avalanche L1 Name	: privadoChain Testnet
 
 RPC URL	
@@ -29,6 +31,9 @@ Blockchain ID (Hex)
 
 EVM Chain ID	
 74074
+
+
+
 
 
 SimpleSenderOnCChain - Avalanche C- Chain
