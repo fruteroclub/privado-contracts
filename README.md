@@ -5,7 +5,7 @@ This document provides details on the deployed smart contracts used in a cross-c
 🔹 SimpleSender — Arbitrum ONE
 Contract Address: 0x1134584b96749fD4b597390a388210Ea88f2Fcdb
 
-Verification: https://repo.sourcify.dev/42161/0x1134584b96749fD4b597390a388210Ea88f2Fcdb
+Verification: https://arbitrum.blockscout.com/address/0x1134584b96749fD4b597390a388210Ea88f2Fcdb
 
 🔹 SimpleReceiver — Avalanche C-Chain
 Contract Address: 0x1134584b96749fD4b597390a388210Ea88f2Fcdb
