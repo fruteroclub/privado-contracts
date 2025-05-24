@@ -15,20 +15,20 @@ Verified : https://routescan.io/address/0x1134584b96749fD4b597390a388210Ea88f2Fc
 
 Avalanche L1 Name	: privadoChain Testnet
 
-Subnet ID	
-2Tzge4oimtZikhhDAwYGcVL7idH78rNKbLGiqH1nBRBCzL9uVZ
-Blockchain ID (Base58)	
-QNer9eHSFbFv4p2VtXDUAvfzuNBA6EnQUd4dE8wkCtnsDaDDm
-Blockchain ID (Hex)	
-0x35126d63d398a10a2ede0893b52eb00863f47d022e7aded472c92b23d5e7ab84
-EVM Chain ID	
-74074
-VM Name	
-EthereumVM
-VM ID	
-rXJjMvg7SUeQ3hQzooRPWbnEoBWmz5GSzcxY1wSJHWt8GnEyb
 RPC URL	
 https://subnets.avax.network/privachain/testnet/rpc
+
+Subnet ID	
+2Tzge4oimtZikhhDAwYGcVL7idH78rNKbLGiqH1nBRBCzL9uVZ
+
+Blockchain ID (Base58)	
+QNer9eHSFbFv4p2VtXDUAvfzuNBA6EnQUd4dE8wkCtnsDaDDm
+
+Blockchain ID (Hex)	
+0x35126d63d398a10a2ede0893b52eb00863f47d022e7aded472c92b23d5e7ab84
+
+EVM Chain ID	
+74074
 
 
 SimpleSenderOnCChain - Avalanche C- Chain
