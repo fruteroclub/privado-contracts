@@ -34,12 +34,16 @@ https://subnets.avax.network/privachain/testnet/rpc
 SimpleSenderOnCChain - Avalanche C- Chain
 
 Deployer: 0xc6823579452e2367e22bCD07471a695aFCC54676
+
 Deployed to: 0x9078fCAc401902913D1910b15eE193c51347d132
+
 Transaction hash: 0x253454e89db3bb1f2ba5285b4bfc3d9b2f1e2a8b659878b92eb929b2fc1e1aa2
 
 SimpleReceiverOnPrivado - PrivadoChain
 
 
 Deployer: 0xc6823579452e2367e22bCD07471a695aFCC54676
+
 Deployed to: 0xBbBef8b66fbC9947341ef15516D9Ee1D5D512B2d
+
 Transaction hash: 0xff1cb55a72dc6c55ea4cb9488b22e7bae8a0005076f50a70272cb8602d5f81fe
