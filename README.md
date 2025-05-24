@@ -15,6 +15,8 @@ Verification: https://routescan.io/address/0x1134584b96749fD4b597390a388210Ea88f
 🔹 Avalanche Subnet — PrivadoChain (Testnet)
 Name: PrivadoChain Testnet
 
+https://subnets-test.avax.network/en/privachain
+
 RPC URL: https://subnets.avax.network/privachain/testnet/rpc
 
 Blockchain ID (Hex): 0x35126d63d398a10a2ede0893b52eb00863f47d022e7aded472c92b23d5e7ab84
