@@ -27,6 +27,8 @@ Blockchain ID (Hex): 0x35126d63d398a10a2ede0893b52eb00863f47d022e7aded472c92b23d
 
 EVM Chain ID: 74074
 
+Interchain Messaging - SMARTCONTRACTS 
+
 🔹 ( ICM ) SimpleSenderOnCChain — Avalanche C-Chain
 
 
