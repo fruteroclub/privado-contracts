@@ -13,6 +13,8 @@ Contract Address: 0x1134584b96749fD4b597390a388210Ea88f2Fcdb
 
 Verification: https://routescan.io/address/0x1134584b96749fD4b597390a388210Ea88f2Fcdb/contract/43114/code
 
+AVALANCHE  C - CHAIN FUJI  TO  L1 - PRIVADOCHAIN
+
 🔹 Avalanche Subnet — PrivadoChain (Testnet)
 Name: PrivadoChain Testnet
 
