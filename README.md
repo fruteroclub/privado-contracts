@@ -4,12 +4,16 @@ This document provides details on the deployed smart contracts used in a cross-c
 
 SMARTCONTRACTS - CCIP USDC + DATA (Orders)
 
+CCIP - EXPLORER
+
+https://ccip.chain.link/address/0x1134584b96749fd4b597390a388210ea88f2fcdb
+
 🔹 SimpleSender — Arbitrum ONE
 Contract Address: 0x1134584b96749fD4b597390a388210Ea88f2Fcdb
 
 Verification: https://arbitrum.blockscout.com/address/0x1134584b96749fD4b597390a388210Ea88f2Fcdb
 
-https://ccip.chain.link/address/0x1134584b96749fd4b597390a388210ea88f2fcdb
+
 
 🔹 SimpleReceiver — Avalanche C-Chain
 Contract Address: 0x1134584b96749fD4b597390a388210Ea88f2Fcdb
