@@ -27,7 +27,7 @@ Blockchain ID (Hex): 0x35126d63d398a10a2ede0893b52eb00863f47d022e7aded472c92b23d
 
 EVM Chain ID: 74074
 
-🔹 SimpleSenderOnCChain — Avalanche C-Chain
+🔹 ( ICM ) SimpleSenderOnCChain — Avalanche C-Chain
 
 
 Deployed Contract: 0x05e8F07b912254F0E8D9D24Df8bd73E5A94c3E42
@@ -36,7 +36,7 @@ Transaction Hash:
 
 https://testnet.snowscan.xyz/address/0x05e8F07b912254F0E8D9D24Df8bd73E5A94c3E42
 
-🔹 SimpleReceiverOnPrivado2 — PrivadoChain Testnet
+🔹 ( ICM ) SimpleReceiverOnPrivado2 — PrivadoChain Testnet
 
 Deployed Contract: 0x1076B66A577198F06b052D3d90B0184181d9598E
 
